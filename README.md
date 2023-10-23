@@ -2,7 +2,7 @@
 
 Team members: 
   - Gáspár Bálint (ANNBWP)
-  - Jancsi Dau (QQ6ASM)
+  - Dau Quang Phong (QQ6ASM)
   - Fogti István (HN4DTH)
 
 ## Description:
